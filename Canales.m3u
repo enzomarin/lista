@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/color/megaplus.jpg", Mega+
+https://t2.zappingtv.com/megaplus/auto.smil/chunklist_live2_sles.m3u8?md5=FCLN8MU_93tZtQ8JoiTqJi6ti7U&expires=1655969830
+
+#EXTINF:-1, Mega
+https://t2.zappingtv.com/mega/mega.smil/chunklist_b1628000_sles.m3u8?md5=e4SUhDKrwKTxk60WWTQnTG2bRe0&expires=1655968833
+
+#EXTINF:-1, CIV Chile Vision
+https://t2.zappingtv.com/chv/tvn.smil/chunklist_b3828000_sles.m3u8?md5=d67qYevVcaKogf3qvmoA4CJPX_U&expires=1655969755
