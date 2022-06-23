@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, Mega No Zapping
-chrome-extension://emnphkkblegpebimobpbekeedfgemhof/player.html#https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-dai/53d2c1a32640614e62a0e000/e3c6a4d4e421462baf807f90073f8722/f624fec49dadc88894ebeff1d974eab019af7757/session/95dcc56b-5ce8-49fa-887d-10f3e33be5a4/media.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=ygqdhS1wbt8WGgiEhpzZgggcM3r7fUt5&sid=1R1rHvBwFGW9Aq4EpYEAqR69AoqTqaK7&pid=jvLq4Nf8dW9y5bZk62jnKlPQnCIb9BSy&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=aOlkd649l1wIj4rZTfflStrdh1GsZdmlKXiVc4MqqYV4NbRJWLxXz88rdlUzZimCrqtbkC0OPQH&es=cl-a3-p-e-es7.cdn.mdstrm.com&ote=1656042353977&ot=gA-KthqVb7ypfJ0SH8A2bQ&proto=https&pz=cl
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/53d2c1a32640614e62a0e000/e3c6a4d4e421462baf807f90073f8722/f624fec49dadc88894ebeff1d974eab019af7757/session/977c004a-3d3d-4a96-980b-3868688d3552/media.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=ygqdhS1wbt8WGgiEhpzZgggcM3r7fUt5&sid=1R1rHvBwFGW9Aq4EpYEAqR69AoqTqaK7&pid=slHN0KrrCqLwSYXsM3rNnpkQdGJBFeNz&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=uOJlfjSnetyV79q1yMT5KuK9gFiqSrOgxbisTpSfzBsCKNuVlMLIH8qZJbp8OJZr0UFDLfW8G7U&es=cl-a3-p-e-es7.cdn.mdstrm.com&ote=1656043484083&ot=PR-aPQAmJKc9sHVxjH9VIQ&proto=https&pz=cl
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://davinci.zappingtv.com/gato/media/300/canales/color/megaplus.jpg", Mega+
 https://t2.zappingtv.com/megaplus/auto.smil/chunklist_live2_sles.m3u8?md5=FCLN8MU_93tZtQ8JoiTqJi6ti7U&expires=1655969830
@@ -11,3 +11,6 @@ https://t2.zappingtv.com/mega/mega.smil/chunklist_b1628000_sles.m3u8?md5=e4SUhDK
 
 #EXTINF:-1, CIV Chile Vision
 https://t2.zappingtv.com/chv/tvn.smil/chunklist_b3828000_sles.m3u8?md5=d67qYevVcaKogf3qvmoA4CJPX_U&expires=1655969755
+
+#EXTINF:-1, test
+https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8?PlaylistM3UCL
